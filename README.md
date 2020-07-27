@@ -1,2 +1,3 @@
-# Introdu-o-Econometria-com-Excel
-Repositório de datasets para o curso
+# Introdução à Econometria com Ms. Excel
+
+- Repositório de datasets para o curso
