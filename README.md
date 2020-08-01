@@ -2,4 +2,4 @@
 
 - Repositório de datasets para o curso disponível no Udemy
 
-[](econometriaexcel.png)
+![](econometriaexcel.png)
