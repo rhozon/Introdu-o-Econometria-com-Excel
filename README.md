@@ -1,3 +1,3 @@
 # Introdução à Econometria com Ms. Excel
 
-- Repositório de datasets para o curso
+- Repositório de datasets para o curso disponível no Udemy
